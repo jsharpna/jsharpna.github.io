@@ -18,7 +18,7 @@ Graduating in Spring 2020 --- Thesis on Statistical Detection on Networks
 
 ### <a href="https://statistics.ucdavis.edu/people/shitong-wei">Shitong Wei</a>
 #### Ph.D. Student in Statistics
-Graduating in Spring 2021 --- Research on Trend Filtering 
+Graduating in Spring 2021 --- Researching Trend Filtering and Locally Adaptive Learning
 
 ### <a href="https://statistics.ucdavis.edu/people/qin-ding">Qin Ding</a>
 #### Ph.D. Student in Statistics
