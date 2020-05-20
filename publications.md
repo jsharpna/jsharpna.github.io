@@ -153,9 +153,9 @@ In <cite>Proceedings of the 23rd ACM SIGKDD International Conference on
 <cite>The Journal of Machine Learning Research</cite>, 17(1):3651&#x2013;3691,
   2016.</li>
 
-<!-- Authors: Krishnamuthy Akshay and Sharpnack James and Singh Ashutosh -->
+<!-- Authors: Krishnamuthy Akshay and Sharpnack James and Singh Aarti -->
 <li><a name="krishnamuthy2013recovering"></a>Akshay Krishnamuthy, <strong>James
-  Sharpnack</strong>, and Ashutosh Singh.
+  Sharpnack</strong>, and Aarti Singh.
 <a href="https://arxiv.org/abs/1305.0213">Recovering graph-structured
   activations using adaptive compressive measurements</a>.
 In <cite>Signals, Systems and Computers, 2013 Asilomar Conference on</cite>,
