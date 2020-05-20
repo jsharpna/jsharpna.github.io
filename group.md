@@ -16,13 +16,17 @@ Graduating in Spring 2020 --- Thesis on Intensity Estimation of Point Processes 
 #### Ph.D. Student in Applied Maths
 Graduating in Spring 2020 --- Thesis on Statistical Detection on Networks 
 
+### <a href="https://statistics.ucdavis.edu/people/shitong-wei">Shitong Wei</a>
+#### Ph.D. Student in Statistics
+Graduating in Spring 2021 --- Research on Trend Filtering 
+
 ### <a href="https://statistics.ucdavis.edu/people/qin-ding">Qin Ding</a>
 #### Ph.D. Student in Statistics
-Graduating in Spring 2021 --- Researching Stochastic Contextual Bandits
+Co-advised with <a href="http://web.cs.ucla.edu/~chohsieh/">Cho-Jui Hsieh</a> --- Graduating in Spring 2021 --- Researching Stochastic Contextual Bandits
 
 ### <a href="https://statistics.ucdavis.edu/people/lifeng-wei">Lifeng Wei</a>
 #### Ph.D. Student in Statistics
-Graduating in Spring 2021 --- Researching Hierarchical Reinforcement Learning
+Co-advised with <a href="http://web.cs.ucla.edu/~chohsieh/">Cho-Jui Hsieh</a> --- Graduating in Spring 2021 --- Researching Hierarchical Reinforcement Learning
 
 ### <a href="https://www.linkedin.com/in/stephen-sheng-14390788">Stephen Sheng</a>
 #### Ph.D. Student in Statistics
@@ -34,4 +38,4 @@ Graduating in Spring 2022 --- Researching Causal Inference in Deep Learning
 
 ### <a href="https://biostat.ucdavis.edu/people/xiawei-wang">Xiawei Wang</a>
 #### Ph.D. Student in Biostatistics
-Graduating in Spring 2022 --- Researching Survival Analysis with Deep Learning
+Co-advised with Thomas Lee --- Graduating in Spring 2022 --- Researching Survival Analysis with Deep Learning
