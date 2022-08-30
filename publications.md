@@ -33,7 +33,7 @@ In <cite>International Conference on Artificial Intelligence and
 <li><a name="daza2022impact"></a>Maria&nbsp;L Daza-Torres, Yury&nbsp;E
   Garc&#x131;a, Alec&nbsp;J Schmidt, Brad&nbsp;H Pollock,
   <strong>James Sharpnack</strong>, and Miriam Nu&#xf1;o.
-The impact of covid-19 vaccination on california&#xe2;&#x80;&#x99;s return to normalcy.
+The impact of covid-19 vaccination on california's return to normalcy.
 <cite>PloS one</cite>, 17(5):e0264195, 2022.</li>
 
 <!-- Authors: Ding Qin and Hsieh Cho Jui and Sharpnack James -->
