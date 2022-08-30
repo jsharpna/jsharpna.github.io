@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Healthy Davis Together: Modeling and Statistics Team'
+title: 'Healthy Davis Together: data Science for health equity'
 date: '2021-07-05 00:00:00 -0700'
 categories: projects
 ---
@@ -47,7 +47,7 @@ Recall that Davis residents are those listing addresses within Davis CBGs.  Lati
 #### Latino Test Rate among Davis Residents (compared to population)
 
 
-![alt_text](/images/hdt_images/image2.png "image_tooltip")
+![alt_text](/images/hdt_images/image3.png "image_tooltip")
 
 
 The above plot shows the percentage of tests for Davis residents that list Latino/Hispanic as ethnicity in the HDT community testing data (red) and the percent of the population of Davis.  Davis residents are those that list an address in a Davis census block group.
@@ -55,7 +55,7 @@ The above plot shows the percentage of tests for Davis residents that list Latin
 
 #### Age distribution for all of HDT testing for Latino and non-Latino
 
-![alt_text](/images/hdt_images/image3.png "image_tooltip")
+![alt_text](/images/hdt_images/image6.png "image_tooltip")
 
 # Repeat Testers are on the rise while New Testers remains steady around 300/day
 
@@ -67,15 +67,15 @@ The above plot shows the percentage of tests for Davis residents that list Latin
 
 ####  Number of tests that are a user’s first time (red) or a repeat test (blue)
 
-![alt_text](/images/hdt_images/image4.png "image_tooltip")
+![alt_text](/images/hdt_images/image2.png "image_tooltip")
 
 #### Histogram of the number of tests taken by a user
 
-![alt_text](/images/hdt_images/image5.png "image_tooltip")
+![alt_text](/images/hdt_images/image4.png "image_tooltip")
 
 #### Days since the last test for repeat users by test date (7 day moving average)
 
-![alt_text](/images/hdt_images/image6.png "image_tooltip")
+![alt_text](/images/hdt_images/image5.png "image_tooltip")
 
 # In other modeling news
 
