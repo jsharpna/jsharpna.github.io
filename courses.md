@@ -18,6 +18,20 @@ Statistics is the science of extracting knowledge from data. Before the advent o
 
 In this course, we will focus on data science tools in Python and Javascript.  First, we will see collaboration, presentation, and containerization tools git, jupyter, pip, virtualenv.  Second we will go over data processing and munging tools such as python base language (strings, input/output), numpy, pandas, sqlite.  Third, we will learn data extraction from the web with requests, html parsing, and APIs.  Fourth, we will learn data visualization tools such as matplotlib, plotnine, and D3.
 
+### Table of Contents
+
+1. Data science, Git and collaboration
+2. Jupyter, Python
+3. Numpy, Pandas
+4. more Pandas, SQL
+5. Static visualization in Python
+6. Data on the web
+7. HTML
+8. Javascript
+9. CSS, D3
+
+### Material
+
 I am posting the lectures to this [github repo](https://github.com/jsharpna/141Blectures-sp2021) and to serve the lectures you can clone and run jupyter in the following way...
 ```
 git clone https://github.com/jsharpna/141Blectures-sp2021.git
