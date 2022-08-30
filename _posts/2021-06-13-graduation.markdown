@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Liwei Wu defends thesis: Advances in Collaborative Filtering and Ranking"
-date:   2020-02-20 00:00:00 -0700
+title:  "2021 Graduates! Shitong Wei, Lifeng Wei, Qing Ding"
+date:   2021-06-12 00:00:00 -0700
 categories: students
 ---
 
