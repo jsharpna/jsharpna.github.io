@@ -9,7 +9,7 @@ I have pinned down my data science/machine learning workflow and wanted to share
 
 ### EC2 setup
 
-I consolidate my EC2 setup using `.ssh/Config`, this greatly reduces my setup time.  First, I fire up an EC2 instance, using an AMI such as one of the Deep Learning community images.  I generate or use an existing key-pair `pem` file, and add it to my `~/.ssh` folder.  I copy my Public IP, it looks like `ec2-[IP].compute.1.amazonaws.com`, but may differ.  Then I add this to my `~/.ssh/Config`:
+I consolidate my EC2 setup using `.ssh/Config`, this greatly reduces my setup time.  First, I fire up an EC2 instance, using an AMI such as one of the Deep Learning community images.  I generate or use an existing key-pair `pem` file, and add it to my `~/.ssh` folder on my local machine.  I copy my Public IP, it looks like `ec2-[IP].compute.1.amazonaws.com`, but may differ.  Then I add this to my `~/.ssh/Config`:
 
 ```
 Host EC2dev
@@ -69,6 +69,16 @@ $ ssh EC2dev
 $ tmux
 $ source env/bin/activate
 $ pip install jupyter
+```
+
+Then I have to add the virtual environment to jupyter:
+```
+$ pip install ipykernel
+$ python -m ipykernel install --name=env
+```
+
+Then fire up jupyter:
+```
 $ jupyter notebook
 ```
 
