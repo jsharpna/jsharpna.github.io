@@ -15,5 +15,5 @@ Amazon AWS
 
 > statistical machine learning --- graph signal processing --- anomaly detection --- scan statistics ---<br>
 > point processes --- recommender systems --- trend filtering --- nearest neighbors ---<br>
-> epidemics on networks --- transportation data analysis
+> epidemiology --- transportation data analysis
 
