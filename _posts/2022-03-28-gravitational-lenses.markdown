@@ -22,7 +22,8 @@ The key components of our best method were
 1. Smart data augmentation
 2. MixMatch: our semi-supervised learner
 3. GANs
-and of course really good simulated lenses (based on ray optics simulation).
+4. and of course really good simulated lenses (based on ray optics simulation).
+
 You can see our final work in the recent paper which was published in AIStats.
 
 <!-- Authors: Sheng Stephen and GC Keerthi Vasan and Choi Chi Po P and
