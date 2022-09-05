@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Montoring local Covid outbreaks with wastewater testing"
+title:  "Monitoring local Covid outbreaks with wastewater testing"
 date:   2022-07-29 00:00:00 -0700
 categories: data science
 ---
