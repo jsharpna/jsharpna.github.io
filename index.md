@@ -13,7 +13,7 @@ Senior Applied Scientist<br>
 Amazon AWS
 </span> <br><br>
 
-> statistical machine learning --- graph signal processing --- anomaly detection --- scan statistics ---<br>
-> point processes --- recommender systems --- trend filtering --- nearest neighbors ---<br>
-> epidemiology --- transportation data analysis
+> end to end data science --- statistical machine learning --- graph signal processing ---<br>
+> anomaly detection --- scan statistics --- point processes --- recommender systems --- <br>
+> trend filtering --- nearest neighbors --- epidemiology --- transportation data analysis<br>
 
