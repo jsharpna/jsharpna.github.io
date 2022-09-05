@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Healthy Davis Together: data science for health equity'
-date: '2021-07-05 00:00:00 -0700'
+date: '2021-05-05 00:00:00 -0700'
 categories: projects
 ---
 
