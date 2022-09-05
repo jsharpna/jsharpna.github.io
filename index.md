@@ -7,7 +7,7 @@ layout: home
 
 <img width="120px" src="jsharpna_portrait.png">
 <span style="padding:15px; font-size:large; display: inline-block; vertical-align: middle;">
-Associate Professor (on leave)<br>
+Adjunct Associate Professor<br>
 [UC Davis Statistics Department](https://statistics.ucdavis.edu/)<br><br>
 Senior Applied Scientist<br>
 Amazon AWS
