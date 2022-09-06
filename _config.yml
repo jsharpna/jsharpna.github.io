@@ -38,3 +38,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Google Analytics
+google_analytics: G-R1SW6WV4EW

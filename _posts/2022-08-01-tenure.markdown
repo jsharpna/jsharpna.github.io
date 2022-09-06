@@ -45,12 +45,12 @@ I have decided to take an indefinite hiatus from academia and explore options in
 
 **Mentorship.** Mentoring Ph.D. students was one of the greatest privileges of my life.  It is hard to give up, and I think is the underappreciated part of a professorship.  However, mentorship for it's own sake is not directly appreciated since it does not always lead to publications (since some students are not saavy enough to publish as much as others).
 
-**Service.** One has to be very motivated to be an influential member of their community to prioritize service.  Service is a very nebulous thing, and it is unclear how to access that you are doing enough.  I think that this subjectiveness can lead to inequities, particularly towards women in our fields.
+**Service.** One has to be very motivated to be an influential member of their community to prioritize service.  Service is a very nebulous thing, and it is unclear how to assess that you are doing enough.  I think that this subjectiveness can lead to inequities, particularly towards women in our fields.
 
 **Teaching.**  Teaching is ostensibly what we are paid to do.  But teaching loads can vary heavily.  It is another place where inequity can creep in since we do not attempt to measure how hard a course is to teach.
 
 Basically, the culture of the department and individual personalities have a huge impact on your career and life as a professor.  My department has been very good to me, but I know of others that are not so good.
-There is little incentive in academia to run a large team doing end-to-end data science.  This means starting from a complex real world problem, solving it with machine learning, and seeing it to completion.  However, in industry and other research orgs, teams do the planning necessary to accomplish a singular goal.  Some topics that are very foreign to academics is SCRUM, goal setting, and project planning.  The typical mode of work is weekly meetings with a single student (or two) where the professor provides advice.  This severely limits what you can accomplish, and I want the former work life.
+There is little incentive in academia to run a large team doing end-to-end data science.  This means working backwards from a complex real world problem, solving it with machine learning, and seeing it to completion.  However, in industry and other research orgs, teams do the planning necessary to accomplish a singular goal.  Some topics that are very foreign to academics is SCRUM, goal setting, and project planning.  The typical mode of work is weekly meetings with a single student (or two) where the professor provides advice.  This severely limits what you can accomplish, and I want the former work life.
 
 
 
