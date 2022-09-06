@@ -1,0 +1,56 @@
+---
+layout: post
+title: 'Tenure and beyond'
+date: '2022-08-01  00:00:00 -0700'
+categories: james
+---
+
+Warning: this post is somewhat self-indulgent.  Don't read unless you are curious why I left a tenured position.
+
+## Tenure
+
+I received tenure in the summer of 2021 in the UC Davis Statistics department (currently the 13th best statistics department in the country).  This was the culmination of a long process that was at times very gratifying.  I am eternally grateful to [my students](/group/), my department, my colleagues and advisors, and my supportive wife and beautiful children.
+
+The basis for my tenure case was my research, teaching, and service (as usual).
+
+### Research
+
+My research has a few main threads, these are,
+1. [Graph trend filtering](/theory/2020/06/02/trend-filtering.html)
+2. [Scan statistics and group anomaly detection]()
+3. Applied work: Covid response work with Delphi and Healthy Davis Together, semi-supervised gravitational lens detection, and transportation science.
+4. Other machine learning research: personalized recommendation systems and contextual bandits.
+
+My Ph.D. thesis and early career research studied and proposed non-parametrics statistical and machine learning methods.  Some of these problems were primarily theoretical such as my work on nearest neighbor methods, scan statistics, and trend filtering.  Some has been driven by the need for new methods, such as graph anomaly detection, scalable personalized recommendation systems, and robust contextual bandits.  Initially, I was the lead researcher and then as is the nature of academic labs, I shifted to PI work and lead a team.
+
+As my research progressed, I became less interested in methodological research, i.e. proposing new methods for idealized problems.  There is nothing really wrong with this type of research, but it lacks the connection to applications.  In contrast, my most gratifying project to date has probably been detecting gravitational lenses in real astronomical surveys.  This is an end-to-end data science problem, where we started with real data and experiments, had to make strategic decisions, design a machine learning and signal processing pipeline, and implement it.  It has lead directly to new science and the discovery of new graviational lenses.  Some of the things that I learned in my recent years are how to manage large teams and coordinate dependent efforts.  These soft skills are hard to obtain and master, but are critical to a successful team.
+
+### Teaching
+
+Teaching data science is a mixed blessing in academia.  It can, and has been extremely gratifying, such as when a star student goes on to be very successful (looking at you [Andrew Chin](https://www.linkedin.com/in/andrewchin1/)).  It also is a very onerous task, and some courses are far more difficult to teach than others.  Typically, applied data science courses are hard to teach because there is not enough canonical course material, there are not enough qualified or interested instructors (why teach when you can do and get paid way more), and the administrative burden of running a computation heavy course is large.  I found that out the hard way, but I am very proud and grateful for the experience (now that it is over).
+
+I taught the following courses...
+1. Statistical machine learning: a graduate level intro to machine learning from a foundational perspective
+2. Data science in python: an upper level or masters level data science course that taught everything from visualizing, munging, storing, and obtaining data.
+3. Advanced machine learning: a survey course for modern machine learning (deep learning).
+4. Intro to probability for undergrads
+
+Teaching also doesn't have to be this way.  Most of the administrative work can be automated or distributed within the department, but we don't prioritize this.  Course material could be shared between institutions and we don't need to give the same lectures every year.  Office hours can be greatly expanded if we remove these unnecessary burdens, and then large classes will feel smaller to the students.
+
+### Beyond
+
+I have decided to take an indefinite hiatus from academia and explore options in industry (or wherever except for tenure track professorships).  I see a lot of notes from disgruntled former academics explaining why the academic job is so bad.  I think that these are a bit overblown.  I hold the opinion that the academic job is good for a very specific type of person.  There are a few things that I have seen.
+
+**Academic freedom.**  You can have academic freedom if you decide to exercise it.  However, for an early and mid career prof you can end up sacrificing your progression up the ranks (via citation count, awards, etc.) if you do not pursue "hot topics" in the field.  It may be that you find those interesting, but for me there were some unknown things (like the [consistency of nearest neighbor matching](https://arxiv-export1.library.cornell.edu/abs/1902.02408)) that seemed insane that we didn't know.  I'm not complaining, but I am saying that these papers didn't help my career, instead my professorship enabled their study.  One of the few ways that you can actually do both is to be established enough to promote your interests within the community enough to make it a viable research topic.
+
+**Mentorship.** Mentoring Ph.D. students was one of the greatest privileges of my life.  It is hard to give up, and I think is the underappreciated part of a professorship.  However, mentorship for it's own sake is not directly appreciated since it does not always lead to publications (since some students are not saavy enough to publish as much as others).
+
+**Service.** One has to be very motivated to be an influential member of their community to prioritize service.  Service is a very nebulous thing, and it is unclear how to access that you are doing enough.  I think that this subjectiveness can lead to inequities, particularly towards women in our fields.
+
+**Teaching.**  Teaching is ostensibly what we are paid to do.  But teaching loads can vary heavily.  It is another place where inequity can creep in since we do not attempt to measure how hard a course is to teach.
+
+Basically, the culture of the department and individual personalities have a huge impact on your career and life as a professor.  My department has been very good to me, but I know of others that are not so good.
+There is little incentive in academia to run a large team doing end-to-end data science.  This means starting from a complex real world problem, solving it with machine learning, and seeing it to completion.  However, in industry and other research orgs, teams do the planning necessary to accomplish a singular goal.  Some topics that are very foreign to academics is SCRUM, goal setting, and project planning.  The typical mode of work is weekly meetings with a single student (or two) where the professor provides advice.  This severely limits what you can accomplish, and I want the former work life.
+
+
+

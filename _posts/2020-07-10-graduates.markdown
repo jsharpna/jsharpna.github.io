@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "2020 Graduates! Xiaoyue Li, Dmitry Shemetov"
-date:   2020-02-20 00:00:00 -0700
+date:   2020-07-10 00:00:00 -0700
 categories: students
 ---
 
