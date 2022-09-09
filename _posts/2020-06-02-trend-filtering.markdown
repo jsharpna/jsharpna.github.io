@@ -32,6 +32,7 @@ This has the desired local adaptivity property, as evidenced by this example ove
 
 <p align='center'>
 <img src='/images/GTF_allegheny.png'>
+Image courtesy of Ryan Tibshirani
 </p>
 
 ## What we know
