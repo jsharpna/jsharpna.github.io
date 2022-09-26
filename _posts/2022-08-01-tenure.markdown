@@ -5,11 +5,11 @@ date: '2022-08-01  00:00:00 -0700'
 categories: james
 ---
 
-Warning: this post is somewhat self-indulgent.  Don't read unless you are curious why I left a tenured position.
+Warning: this post is somewhat self-indulgent.
 
 ## Tenure
 
-I received tenure in the summer of 2021 in the UC Davis Statistics department (currently the 13th best statistics department in the country).  This was the culmination of a long process that was at times very gratifying.  I am eternally grateful to [my students](/group/), my department, my colleagues and advisors, and my supportive wife and beautiful children.
+I received tenure in the summer of 2021 in the UC Davis Statistics department (currently the 13th best statistics department in the country).  This was the culmination of a long process that was overall very gratifying.  I am eternally grateful to [my students](/group/), my department, my colleagues and advisors, and my supportive wife and beautiful children.
 
 The basis for my tenure case was my research, teaching, and service (as usual).
 
@@ -37,7 +37,7 @@ I taught the following courses...
 
 Teaching also doesn't have to be this way.  Most of the administrative work can be automated or distributed within the department, but we don't prioritize this.  Course material could be shared between institutions and we don't need to give the same lectures every year.  Office hours can be greatly expanded if we remove these unnecessary burdens, and then large classes will feel smaller to the students.
 
-### Beyond
+### Some observations
 
 I have decided to take an indefinite hiatus from academia and explore options in industry (or wherever except for tenure track professorships).  I see a lot of notes from disgruntled former academics explaining why the academic job is so bad.  I think that these are a bit overblown.  I hold the opinion that the academic job is good for a very specific type of person.  There are a few things that I have seen.
 
@@ -50,7 +50,8 @@ I have decided to take an indefinite hiatus from academia and explore options in
 **Teaching.**  Teaching is ostensibly what we are paid to do.  But teaching loads can vary heavily.  It is another place where inequity can creep in since we do not attempt to measure how hard a course is to teach.
 
 Basically, the culture of the department and individual personalities have a huge impact on your career and life as a professor.  My department has been very good to me, but I know of others that are not so good.
-There is little incentive in academia to run a large team doing end-to-end data science.  This means working backwards from a complex real world problem, solving it with machine learning, and seeing it to completion.  However, in industry and other research orgs, teams do the planning necessary to accomplish a singular goal.  Some topics that are very foreign to academics is SCRUM, goal setting, and project planning.  The typical mode of work is weekly meetings with a single student (or two) where the professor provides advice.  This severely limits what you can accomplish, and I want the former work life.
+I am very proud of my work in academia thus far, but I also have an itch to try my hand at industry.
+My goal is to lead a science team that is working toward a few difficult business goals, and to build a product or service.
 
 
 
