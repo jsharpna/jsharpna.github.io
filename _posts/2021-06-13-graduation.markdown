@@ -2,7 +2,7 @@
 layout: post
 title:  "2021 Graduates! Shitong Wei, Lifeng Wei, Qin Ding"
 date:   2021-06-12 00:00:00 -0700
-categories: students
+categories: group
 ---
 
 I was blessed to see three of my Ph.D. students graduate, especially so because it was during the Covid-19 pandemic.  It was a heroic effort on all of their parts to not get set back during this hard time.

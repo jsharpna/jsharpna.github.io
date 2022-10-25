@@ -2,7 +2,7 @@
 layout: post
 title:  "Liwei Wu defends thesis: Advances in Collaborative Filtering and Ranking"
 date:   2020-02-20 00:00:00 -0700
-categories: students
+categories: group
 ---
 
 [Liwei Wu](http://anson.ucdavis.edu/~liweiwu/index.html) (advised by myself and Cho-Jui Hsieh) recently defended his outstanding thesis in my department.  In his research, Liwei has continually pushed the frontier of recommendation system research by identifying important outstanding problems in this domain, solving them, and communicating his findings in top machine learning conferences.  His work has been published in KDD, NeurIPS, ICML, CVPR, and AIStats, and four of these papers are the basis for chapters of his thesis.
