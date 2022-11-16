@@ -26,6 +26,7 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -41,3 +42,7 @@ plugins:
 
 # Google Analytics
 google_analytics: G-R1SW6WV4EW
+
+url: "https://jsharpna.github.io" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
