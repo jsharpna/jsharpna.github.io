@@ -2,7 +2,7 @@
 layout: post
 title:  "Data science development environment: pip, jupyter, virtualenv, pycharm, and AWS"
 date:   2022-06-20 00:00:00 -0700
-categories: data science
+categories: projects
 ---
 
 I have pinned down my data science/machine learning workflow and wanted to share it.  It is based on using `pip`, `virtualenv`, and `pycharm` and is good for simultaneously writing python packages and doing data analyses in `jupyter`.  My preferred infrastructure solution is AWS.  Disclaimer: I work for Amazon AWS.

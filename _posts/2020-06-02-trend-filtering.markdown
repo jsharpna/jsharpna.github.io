@@ -2,7 +2,7 @@
 layout: post
 title: 'Trend Filtering: what we know and the future'
 date: '2020-06-02 00:00:00 -0700'
-categories: theory
+categories: research
 ---
 
 ## Trend filtering
@@ -31,7 +31,8 @@ $$ D^{(k+1)} = \Big\{ \begin{array}{ll} D^\top D^{(k)},& k~{\rm odd} \\ D D^{(k)
 This has the desired local adaptivity property, as evidenced by this example over the Allegheny county zip codes (it varies the smoothness locally) which are connected based on direct proximity:
 
 <p align='center'>
-<img src='/images/GTF_allegheny.png'>
+<img src='/images/GTF_allegheny.png'><br>
+Image courtesy of Ryan Tibshirani
 </p>
 
 ## What we know

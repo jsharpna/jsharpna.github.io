@@ -2,7 +2,7 @@
 layout: post
 title:  "Monitoring local Covid outbreaks with wastewater testing"
 date:   2022-07-29 00:00:00 -0700
-categories: data science
+categories: projects
 ---
 
 Throughout 2021, my lab worked with Heather Bischel's lab at UC Davis on realtime Covid outbreak monitoring with wastewater testing.  [Prof. Bischel's team](https://hbischel.faculty.ucdavis.edu/), led by her Ph.D. student, Hannah Safford, performed qPCR testing on wastewater in Davis.  Basically, they would place samplers in maintenance holes and collect the sewage (fecal matter) to test for Covid-19 RNA concentrations.  We used a control RNA, PMMoV, which is supposed to be a proxy for fecal matter concentration.  We are then able to estimate Covid concentration in the population that is upstream of that maintenance hole.  Much of our study was to do a correlation analysis of this statistic with the Saliva testing results in Davis.

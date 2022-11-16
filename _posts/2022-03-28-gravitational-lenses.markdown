@@ -2,7 +2,7 @@
 layout: post
 title: 'Detecting gravitational lenses: from astronomical survey to hubble'
 date: '2022-03-28  00:00:00 -0700'
-categories: projects
+categories: research
 ---
 
 In 2019 we initiated a collaboration between my lab and Tucker Jones's lab in UC Davis Physics.  The idea was to detect gravitational lenses in a real (new) astronomical survey, the Deep Lens Survey (DLS), and then use these detections to actually confirm the discovered lenses on telescopes like the Keck observatory.  We found that this was way harder than testing machine learning methods on benchmark datasets.
