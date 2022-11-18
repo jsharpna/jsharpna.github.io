@@ -27,7 +27,7 @@ You can assume that there are no real lenses in our training set (we actually cu
 So because we get many simulated lenses, but there are very few real ones in the test set, the marginal label distribution $$p(y)$$ shifts ($$y=1$$ means it is a lens, $$y=0$$ means it is not).
 Also, because the simulations definitely look different than the real lenses (they aren't THAT good), then $$p(x\vert y=1)$$ shifts.
 However, $$p(x\vert y=0)$$ is the same since the non-lenses in the training and test data are pulled from the set of survey images.
-Hence, we have relaxed label shift, and typical assumptions like covariate shift ( $$p(y\vert x)$$ doesn't shift) and label shift $$p(x\vert y)$$ doesn't shift) don't hold.
+Hence, we have relaxed label shift, and typical assumptions like covariate shift ($$p(y\vert x)$$ doesn't shift) and label shift ($$p(x\vert y)$$ doesn't shift) don't hold.
 
 ## Consistency regularization works
 
