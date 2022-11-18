@@ -11,7 +11,7 @@ categories: research
 *Domain adaptation* means training a classifier using only training data that gets good accuracy on test data under distribution shift.
 In [our recent ICLR submission called RLSbench](https://openreview.net/forum?id=kLvYYV-YK_j) we loosely defined relax label shift as
 
-> The label marginal distribution, $$p(y)$$, can shift arbitrarily and the class conditionals, $$p(x|y)$$, can shift in seemingly natural ways.
+> The label marginal distribution, $$p(y)$$, can shift arbitrarily and the class conditionals, $$p(x\|y)$$, can shift in seemingly natural ways.
 
 This is admittedly, purposefully vague.  But you can see it in our gravitational lens detection problem.  
 I have written in more detail about it [here](https://jsharpna.github.io/research/2022/03/28/gravitational-lenses.html), but the setting fits the relaxed label shift definition.
@@ -24,10 +24,10 @@ Non-lens (left), simulated lens (center), real lens (right)
 </p>
 
 You can assume that there are no real lenses in our training set (we actually curate it).
-So because we get many simulated lenses, but there are very few real ones in the test set, the marginal label distribution $p(y)$ shifts.
-Also, because the simulations definitely look different than the real lenses (they aren't THAT good), then $$p(x|y=1)$$ shifts, where $$y=1$$ means it is a lens.
-However, $$p(x|y=0)$$ is the same ($$y=0$$ means that it is a non-lens) since the non-lenses in the training and test data are pulled from the set of survey images.
-Hence, we have relaxed label shift, and typical assumptions like covariate shift ($$p(y|x)$$ doesn't shift) and label shift $$p(x|y) doesn't shift) don't hold.
+So because we get many simulated lenses, but there are very few real ones in the test set, the marginal label distribution $$p(y)$$ shifts ($$y=1$$ means it is a lens, $$y=0$$ means it is not).
+Also, because the simulations definitely look different than the real lenses (they aren't THAT good), then $$p(x|y=1)$$ shifts.
+However, $$p(x|y=0)$$ is the same since the non-lenses in the training and test data are pulled from the set of survey images.
+Hence, we have relaxed label shift, and typical assumptions like covariate shift ( $$p(y\|x)$$ doesn't shift) and label shift $$p(x\|y)$$ doesn't shift) don't hold.
 
 ## Consistency regularization works
 
