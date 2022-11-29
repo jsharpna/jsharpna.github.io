@@ -9,8 +9,8 @@ layout: home
 <span style="padding:15px; font-size:large; display: inline-block; vertical-align: middle;">
 Adjunct Associate Professor<br>
 [UC Davis Statistics Department](https://statistics.ucdavis.edu/)<br><br>
-Senior Applied Scientist<br>
-Amazon AWS
+Staff AI Research Scientist<br>
+Duolingo
 </span> <br><br>
 
 > end to end data science --- statistical machine learning --- graph signal processing ---<br>
