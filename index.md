@@ -10,7 +10,7 @@ layout: home
 Adjunct Associate Professor<br>
 [UC Davis Statistics Department](https://statistics.ucdavis.edu/)<br><br>
 Staff AI Research Scientist<br>
-Duolingo
+[Duolingo](https://www.duolingo.com/)
 </span> <br><br>
 
 > end to end data science --- statistical machine learning --- graph signal processing ---<br>
