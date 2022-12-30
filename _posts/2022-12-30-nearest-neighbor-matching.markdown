@@ -37,3 +37,8 @@ Any search engine with an HNSW backend can do this on the fly.
 1. Minimax optimal? We know that NNM is not optimal under smoothness assumptions, but we aren't sure about general Borel measurable regression functions.  It may be that in this more general setting estimating moments from biased samples is just really hard.
 2. Rates?  Do we have nontrivial rates? It's not even clear if we should expect any.
 3. Combining this with metric learning.  One natural way to create a deep learning variant of this is to use metric learning for the supervised task of estimating Y given X over the biased sample.
+
+### Reference
+
+J. Sharpnack, ["On L2-consistency of Nearest Neighbor Matching,"](https://arxiv.org/abs/1902.02408) in IEEE Transactions on Information Theory, doi: 10.1109/TIT.2022.3226479.
+
