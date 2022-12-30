@@ -15,21 +15,21 @@ So, debiasing approaches were proposed, but at that point it was unclear why you
 However, without the Lipschitz assumption it is much harder to show even consistency.
 This is what I established, but there are many questions that I have!
 
-One nice thing is that it works for any Borel measurable regression functions, but a downside is that it requires finite dimensions and a density.
+One nice thing is that it works for any Borel measurable regression function, but a downside is that it requires finite dimensions and a density.
 In fact, we are awfully close to showing that this can work without the finite dimensionality assumption.
 I outlined in that paper how we can prove this for a broader set of separable metric spaces.
 But it requires some new results which would typically be lemmas for nearest neighbor regression.
 Then the remainder of my results would extend pretty naturally to this setting.
 
 Nearest neighbor matching is very appealing because it can be used in combination with any metric and can benefit from data structures that target nearest neighbor lookups.
-For example, you could imagine a situation where an SQL query in a massive distributed data set, i.e. search applications...
+For example, you could imagine a situation where an SQL query in a massive distributed data set, i.e. search applications, is
 
 ```
 select average(Y) from bigtable where X < 1
 ```
 
 If Y was partially missing then you could just match the missing entries to the non-missing entries and then use NNM.
-Is situation is pretty common in search, especially for logs.
+This situation is pretty common in search, especially for logs.
 Any search engine with an HNSW backend can do this on the fly.
 
 ## Open problems for NNM
