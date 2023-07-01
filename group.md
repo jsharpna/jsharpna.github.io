@@ -34,7 +34,7 @@ Graduated with Applied Maths Ph.D. in Fall 2021 --- Thesis on Unsupervised Learn
 
 ### <a href="https://statistics.ucdavis.edu/people/xiaoliu-charles-wu">Xiaoliu Wu</a>, Ph.D.
 #### Data Scientist at Google
-Graduated with Statistics Ph.D. in Spring 2022 --- Researching Causal Inference in Deep Learning, Covid-19 Davis Modeling Team
+Graduated with Statistics Ph.D. in Spring 2022 --- Thesis on Causal Inference in Deep Learning, Covid-19 Davis Modeling Team
 
 ### <a href="https://its.ucdavis.edu/people/ran-sun/">Ran Sun</a>, Ph.D. candidate
 #### Ph.D. Student in Transportation Studies
