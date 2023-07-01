@@ -32,14 +32,14 @@ Co-advised with <a href="http://web.cs.ucla.edu/~chohsieh/">Cho-Jui Hsieh</a> --
 #### Applied Scientist at Amazon
 Graduated with Applied Maths Ph.D. in Fall 2021 --- Thesis on Unsupervised Learning in Images, Covid-19 Davis Modeling Team
 
-### <a href="ahttps://statistics.ucdavis.edu/people/xiaoliu-charles-wu">Xiaoliu Wu</a>, Ph.D. candidate 
-#### Ph.D. Student in Statistics
-Graduating in Spring 2022 --- Researching Causal Inference in Deep Learning, Covid-19 Davis Modeling Team
-
-### <a href="https://biostat.ucdavis.edu/people/xiawei-wang">Xiawei Wang</a>, Ph.D. candidate
-#### Ph.D. Student in Biostatistics
-Co-advised with Thomas Lee --- Graduating in Spring 2022 --- Researching Survival Analysis with Deep Learning
+### <a href="https://statistics.ucdavis.edu/people/xiaoliu-charles-wu">Xiaoliu Wu</a>, Ph.D.
+#### Data Scientist at Google
+Graduated in Spring 2022 --- Researching Causal Inference in Deep Learning, Covid-19 Davis Modeling Team
 
 ### <a href="https://its.ucdavis.edu/people/ran-sun/">Ran Sun</a>, Ph.D. candidate
 #### Ph.D. Student in Transportation Studies
 Co-advised with Yueyue Fan --- Graduating in Spring 2023 --- Researching Graph Signal Processing for Transportation Science
+
+### <a href="https://biostat.ucdavis.edu/people/xiawei-wang">Xiawei Wang</a>, Ph.D. candidate
+#### Ph.D. Student in Biostatistics
+Co-advised with Thomas Lee --- Graduating in Spring 2023 --- Researching Survival Analysis with Deep Learning
