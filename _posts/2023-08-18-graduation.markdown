@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "202(2 & 3)  Graduates! Xiaoliu Wu \& Ran Sun"
+title:  "New Graduates! Xiaoliu Wu (Winter 2022) & Ran Sun"
 date:   2023-08-18 00:00:00 -0700
 categories: group
 ---
