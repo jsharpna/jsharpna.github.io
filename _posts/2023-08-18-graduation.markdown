@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "202(2 & 3)  Graduates! Xiaoliu Wu \& Ran Sun"
-date:   2021-08-18 00:00:00 -0700
+date:   2023-08-18 00:00:00 -0700
 categories: group
 ---
 
