@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "AAAI 2024 workshop on AI for Education"
+date:   2023-10-04 00:00:00 -0700
+categories: events
+---
+
+# AI for Education: Bridging Innovation and Responsibility at the 38th AAAI Annual Conference on AI
+
+I am co-organizing a two-day workshop for AAAI 2024 on "AI for Education: Bridging Innovation and Responsibility at the 38th AAAI Annual Conference on AI".  For full info see [ai4ed.cc/workshops/aaai2024](https://ai4ed.cc/workshops/aaai2024).
+
+> Discover the transformative potential of GenAI and RAI on education - join us in our 2-day workshop to explore new research opportunities, technological advances, and the crucial ethical implications towards a better, equitable educational future. You are the change we need! "You are invited to engage in a pivotal discussion about AI's impact on education! Join us in our 2-day workshop to influence how AI transforms learning, teaching, and assessment, and help shape responsible AI practices. Let's foster an inclusive, effective educational ecosystem together!
+
+## Workshop Overview
+This two-day workshop explores the innovations in artificial intelligence (AI), specifically generative-AI (GenAI), in educational applications, and discusses the related ethical implications of responsible-AI (RAI). Over two days, attendees will examine GenAI technologies, potential vulnerabilities, and the development of RAI standards in an educational context. Through a variety of formats like papers, demonstrations, posters, a global competition on Math reasoning, and opportunities to hear experts and representatives from various communities, participants will explore AI's impact on instruction quality, learner outcomes, and ethics. This workshop ultimately aims to inspire novel ideas, foster partnerships, and navigate the ethical complexities of AI in education.
+
+## Call for Submissions
+We welcome different kinds of submissions:
+- Short papers (2 pages + references). Demo papers, Work-in-progress papers. These submissions will be exhibited as posters or demonstrations.
+- Full papers (up to 6 pages + references). Novel research papers, Appraisal papers of existing methods and tools (e.g., lessons learned), Benchmark datasets highlighting the application of GenAI, Evaluatory papers that revisit the validity of domain assumptions.
+
+All submissions must follow the [PMLR style template](https://rice.box.com/s/4itqz94qaxxkycq0r6zqla186pz9ed3y).
+To ensure a fair review process, all submissions will be evaluated through a double-blind review.
+
+*Accepted full papers will be invited to submit an extended version, addressing the remarks of the reviewers, to PMLR [https://proceedings.mlr.press/](https://proceedings.mlr.press/) to be published as part of the Workshop Proceedings.*
+
+**Global challenge on math problem solving and reasoning.**
+
+We invite researchers and practitioners worldwide to investigate the opportunities of automatically solving math problems via LLM approaches. More details about this competition and instructions for submission can be found at [https://ai4ed.cc/competitions/aaai2024competition](https://ai4ed.cc/competitions/aaai2024competition).
+
+
+**Important Dates**
+- Submission opens: Sept 30, 2023
+- Submission due: November 23, 2023, by 23:59 PM AoE
+- Final paper decision: December 11, 2023
+- Camera ready: TBD
+
+Workshop URL. [https://ai4ed.cc/workshops/aaai2024](https://ai4ed.cc/workshops/aaai2024); For any questions email us at ai4ed-24@aaai.org.
