@@ -36,7 +36,7 @@ Graduated with Applied Maths Ph.D. in Fall 2021 --- Thesis on Unsupervised Learn
 #### Data Scientist at Google
 Graduated with Statistics Ph.D. in Spring 2022 --- Thesis on Causal Inference in Deep Learning, Covid-19 Davis Modeling Team
 
-### <a href="https://its.ucdavis.edu/people/ran-sun/">Ran Sun</a>, Ph.D. candidate
+### <a href="https://its.ucdavis.edu/people/ran-sun/">Ran Sun</a>, Ph.D.
 #### Ph.D. Student in Transportation Studies
 Co-advised with Yueyue Fan --- Graduating in Spring 2023 --- Researching Graph Signal Processing for Transportation Science
 
