@@ -4,6 +4,8 @@ title: Group
 permalink: /group/
 ---
 
+#### I am currently not taking any new students, here is a list of my group's alumni.
+
 ### <a href="http://anson.ucdavis.edu/~liweiwu/index.html">Liwei Wu</a>, Ph.D.
 #### Machine Learning Researcher, Linkedin
 Co-advised with <a href="http://web.cs.ucla.edu/~chohsieh/">Cho-Jui Hsieh</a> --- graduated with Statistics Ph.D. in Winter 2020 --- Thesis on Advances in Collaborative Filtering and Ranking
@@ -37,9 +39,9 @@ Graduated with Applied Maths Ph.D. in Fall 2021 --- Thesis on Unsupervised Learn
 Graduated with Statistics Ph.D. in Spring 2022 --- Thesis on Causal Inference in Deep Learning, Covid-19 Davis Modeling Team
 
 ### <a href="https://its.ucdavis.edu/people/ran-sun/">Ran Sun</a>, Ph.D.
-#### Ph.D. Student in Transportation Studies
-Co-advised with Yueyue Fan --- Graduating in Spring 2023 --- Researching Graph Signal Processing for Transportation Science
+#### Postdoctoral Researcher in the Michigan Traffic Lab at the University of Michigan
+Co-advised with Yueyue Fan --- Graduated with Transportation Science Ph.D. in Spring 2023 --- Thesis on Graph Signal Processing for Transportation Science
 
-### <a href="https://biostat.ucdavis.edu/people/xiawei-wang">Xiawei Wang</a>, Ph.D. candidate
-#### Ph.D. Student in Biostatistics
-Co-advised with Thomas Lee --- Graduating in Spring 2023 --- Researching Survival Analysis with Deep Learning
+### <a href="https://biostat.ucdavis.edu/people/xiawei-wang">Xiawei Wang</a>, Ph.D.
+#### Data Scientist at Microsoft
+Co-advised with Thomas Lee --- Graduating with Biostatistics Ph.D. in Winter 2024 --- Thesis on Survival Analysis with Deep Learning
