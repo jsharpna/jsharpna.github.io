@@ -85,8 +85,17 @@ permalink: /publications/
 .pub-title {
   font-size: 1.1rem;
   font-weight: bold;
-  color: #2c3e50;
   margin: 0 0 0.5rem 0;
+}
+
+.pub-title a {
+  color: #2c3e50;
+  text-decoration: none;
+}
+
+.pub-title a:hover {
+  color: #3498db;
+  text-decoration: underline;
 }
 
 .pub-authors {
@@ -155,25 +164,21 @@ permalink: /publications/
 
 <div style="text-align: center; margin: 2rem 0;">
   <h1 style="color: #2c3e50; margin-bottom: 0.5rem;">Research Publications</h1>
-  <p style="font-size: 1.1rem; color: #666;">43+ publications spanning machine learning, statistics, and interdisciplinary applications</p>
+  <p style="font-size: 1.1rem; color: #666;">40+ publications spanning machine learning, statistics, and interdisciplinary applications</p>
 </div>
 
 <div class="stats-summary">
   <div class="stat-card">
-    <div class="stat-number">43+</div>
+    <div class="stat-number">40+</div>
     <div class="stat-label">Publications</div>
   </div>
   <div class="stat-card">
-    <div class="stat-number">2</div>
-    <div class="stat-label">PNAS Papers</div>
+    <div class="stat-number">18+</div>
+    <div class="stat-label">Journal Papers</div>
   </div>
   <div class="stat-card">
     <div class="stat-number">15+</div>
     <div class="stat-label">NeurIPS/ICML</div>
-  </div>
-  <div class="stat-card">
-    <div class="stat-number">2010-2025</div>
-    <div class="stat-label">Active Years</div>
   </div>
 </div>
 
@@ -193,7 +198,7 @@ permalink: /publications/
   <div class="publication-list">
     
     <div class="publication-item">
-      <div class="pub-title">BanditCAT and AutoIRT: Machine Learning Approaches to Computerized Adaptive Testing and Item Calibration</div>
+      <div class="pub-title"><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cXhAfX0AAAAJ&citation_for_view=cXhAfX0AAAAJ:Se3iqnhoufwC" target="_blank">BanditCAT and AutoIRT: Machine Learning Approaches to Computerized Adaptive Testing and Item Calibration</a></div>
       <div class="pub-authors"><strong>James Sharpnack</strong>, Kevin Hao, Phoebe Mulcaire, Klinton Bicknell, Geoff LaFlair, Kevin Yancey, Alina A von Davier</div>
       <div class="pub-venue">Large Foundation Models for Educational Assessment (PMLR) <span class="venue-badge venue-good">Workshop</span><span class="pub-year">2025</span></div>
     </div>
@@ -225,31 +230,31 @@ permalink: /publications/
   <div class="publication-list">
 
     <div class="publication-item">
-      <div class="pub-title">Syndicated Bandits: A Framework for Auto Tuning Hyper-parameters in Contextual Bandit Algorithms</div>
+      <div class="pub-title"><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cXhAfX0AAAAJ&citation_for_view=cXhAfX0AAAAJ:LkGwnXOMwfcC" target="_blank" style="color: #2c3e50; text-decoration: none;">Syndicated Bandits: A Framework for Auto Tuning Hyper-parameters in Contextual Bandit Algorithms</a></div>
       <div class="pub-authors">Qin Ding, Yi-Wei Liu, Cho-Jui Hsieh, <strong>James Sharpnack</strong></div>
       <div class="pub-venue">Advances in Neural Information Processing Systems (NeurIPS) <span class="venue-badge venue-top">NeurIPS</span><span class="pub-year">2022</span></div>
     </div>
 
     <div class="publication-item">
-      <div class="pub-title">Robust stochastic linear contextual bandits under adversarial attacks</div>
+      <div class="pub-title"><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cXhAfX0AAAAJ&citation_for_view=cXhAfX0AAAAJ:oNZyr7d5Mn4C" target="_blank">Robust stochastic linear contextual bandits under adversarial attacks</a></div>
       <div class="pub-authors">Qin Ding, Cho-Jui Hsieh, <strong>James Sharpnack</strong></div>
       <div class="pub-venue">International Conference on Artificial Intelligence and Statistics (AISTATS) <span class="venue-badge venue-good">AISTATS</span><span class="pub-year">2022</span></div>
     </div>
 
     <div class="publication-item">
-      <div class="pub-title">SSE-PT: Sequential recommendation via personalized transformer</div>
+      <div class="pub-title"><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cXhAfX0AAAAJ&citation_for_view=cXhAfX0AAAAJ:k8Z6L05lTy4C" target="_blank">SSE-PT: Sequential recommendation via personalized transformer</a></div>
       <div class="pub-authors">Liwei Wu, Shuqing Li, Cho-Jui Hsieh, <strong>James Sharpnack</strong></div>
       <div class="pub-venue">ACM Conference on Recommender Systems <span class="venue-badge venue-good">RecSys</span><span class="pub-year">2020</span></div>
     </div>
 
     <div class="publication-item">
-      <div class="pub-title">Graph DNA: Deep neighborhood aware graph encoding for collaborative filtering</div>
+      <div class="pub-title"><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cXhAfX0AAAAJ&citation_for_view=cXhAfX0AAAAJ:WF5omc3nYNoC" target="_blank">Graph DNA: Deep neighborhood aware graph encoding for collaborative filtering</a></div>
       <div class="pub-authors">Liwei Wu, Hsiang-Fu Yu, Nikhil Rao, <strong>James Sharpnack</strong>, Cho-Jui Hsieh</div>
       <div class="pub-venue">International Conference on Artificial Intelligence and Statistics (AISTATS) <span class="venue-badge venue-good">AISTATS</span><span class="pub-year">2020</span></div>
     </div>
 
     <div class="publication-item">
-      <div class="pub-title">RLSBench: Domain adaptation under relaxed label shift</div>
+      <div class="pub-title"><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cXhAfX0AAAAJ&citation_for_view=cXhAfX0AAAAJ:5qfkUJPXOUwC" target="_blank">RLSBench: Domain adaptation under relaxed label shift</a></div>
       <div class="pub-authors">Saurabh Garg, Nick Erickson, <strong>James Sharpnack</strong>, Alex Smola, Sivaraman Balakrishnan, Zachary Chase Lipton</div>
       <div class="pub-venue">International Conference on Machine Learning (ICML) <span class="venue-badge venue-top">ICML</span><span class="pub-year">2023</span></div>
     </div>
@@ -261,25 +266,25 @@ permalink: /publications/
     </div>
 
     <div class="publication-item">
-      <div class="pub-title">An efficient algorithm for generalized linear bandit: Online stochastic gradient descent and thompson sampling</div>
+      <div class="pub-title"><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cXhAfX0AAAAJ&citation_for_view=cXhAfX0AAAAJ:kz9GbA2Ns4gC" target="_blank">An efficient algorithm for generalized linear bandit: Online stochastic gradient descent and thompson sampling</a></div>
       <div class="pub-authors">Qin Ding, Cho-Jui Hsieh, <strong>James Sharpnack</strong></div>
       <div class="pub-venue">International Conference on Artificial Intelligence and Statistics (AISTATS) <span class="venue-badge venue-good">AISTATS</span><span class="pub-year">2021</span></div>
     </div>
 
     <div class="publication-item">
-      <div class="pub-title">Stochastic Shared Embeddings: Data-driven Regularization of Embedding Layers</div>
+      <div class="pub-title"><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cXhAfX0AAAAJ&citation_for_view=cXhAfX0AAAAJ:KUbvn5osdkgC" target="_blank">Stochastic Shared Embeddings: Data-driven Regularization of Embedding Layers</a></div>
       <div class="pub-authors">Liwei Wu, Shuqing Li, Cho-Jui Hsieh, <strong>James L Sharpnack</strong></div>
       <div class="pub-venue">Advances in Neural Information Processing Systems (NeurIPS) <span class="venue-badge venue-top">NeurIPS</span><span class="pub-year">2019</span></div>
     </div>
 
     <div class="publication-item">
-      <div class="pub-title">SQL-Rank: A Listwise Approach to Collaborative Ranking</div>
+      <div class="pub-title"><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cXhAfX0AAAAJ&citation_for_view=cXhAfX0AAAAJ:BwyfMAYsbu0C" target="_blank">SQL-Rank: A Listwise Approach to Collaborative Ranking</a></div>
       <div class="pub-authors">Liwei Wu, Cho-Jui Hsieh, <strong>James Sharpnack</strong></div>
       <div class="pub-venue">International Conference on Machine Learning (ICML) <span class="venue-badge venue-top">ICML</span><span class="pub-year">2018</span></div>
     </div>
 
     <div class="publication-item">
-      <div class="pub-title">Large-scale Collaborative Ranking in Near-Linear Time</div>
+      <div class="pub-title"><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cXhAfX0AAAAJ&citation_for_view=cXhAfX0AAAAJ:YOwf2qJgpHMC" target="_blank">Large-scale Collaborative Ranking in Near-Linear Time</a></div>
       <div class="pub-authors">Liwei Wu, Cho-Jui Hsieh, <strong>James Sharpnack</strong></div>
       <div class="pub-venue">ACM SIGKDD International Conference on Knowledge Discovery and Data Mining <span class="venue-badge venue-good">KDD</span><span class="pub-year">2017</span></div>
     </div>
@@ -299,7 +304,7 @@ permalink: /publications/
     </div>
 
     <div class="publication-item">
-      <div class="pub-title">Beyond Cases and Deaths: The Benefits of Auxiliary Data Streams in Tracking the COVID-19 Pandemic</div>
+      <div class="pub-title"><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cXhAfX0AAAAJ&citation_for_view=cXhAfX0AAAAJ:SpbeaW3--B0C" target="_blank">Beyond Cases and Deaths: The Benefits of Auxiliary Data Streams in Tracking the COVID-19 Pandemic</a></div>
       <div class="pub-authors">Daniel J McDonald, Jacob Bien, Alden Green, Addison J Hu, Nat DeFries, Sangwon Hyun, Natalia L Oliveira, <strong>James Sharpnack</strong>, Jingjing Tang, Robert Tibshirani, et al.</div>
       <div class="pub-venue">Proceedings of the National Academy of Sciences <span class="venue-badge venue-top">PNAS</span><span class="pub-year">2021</span></div>
     </div>
@@ -337,7 +342,7 @@ permalink: /publications/
   <div class="publication-list">
 
     <div class="publication-item">
-      <div class="pub-title">An Unsupervised Hunt for Gravitational Lenses</div>
+      <div class="pub-title"><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cXhAfX0AAAAJ&citation_for_view=cXhAfX0AAAAJ:_FxGoFyzp5QC" target="_blank">An Unsupervised Hunt for Gravitational Lenses</a></div>
       <div class="pub-authors">Stephen Sheng, Keerthi Vasan GC, Chi Po P Choi, <strong>James Sharpnack</strong>, Tucker Jones</div>
       <div class="pub-venue">International Conference on Artificial Intelligence and Statistics (AISTATS) <span class="venue-badge venue-good">AISTATS</span><span class="pub-year">2022</span></div>
     </div>
@@ -357,13 +362,13 @@ permalink: /publications/
   <div class="publication-list">
 
     <div class="publication-item">
-      <div class="pub-title">Trend filtering on graphs</div>
+      <div class="pub-title"><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cXhAfX0AAAAJ&citation_for_view=cXhAfX0AAAAJ:Z5m8FVwuT1cC" target="_blank">Trend filtering on graphs</a></div>
       <div class="pub-authors">Yu-Xiang Wang, <strong>James Sharpnack</strong>, Alexander J Smola, Ryan J Tibshirani</div>
       <div class="pub-venue">Journal of Machine Learning Research (JMLR) <span class="venue-badge venue-journal">JMLR</span><span class="pub-year">2016</span></div>
     </div>
 
     <div class="publication-item">
-      <div class="pub-title">Near-optimal anomaly detection in graphs using Lovász extended scan statistic</div>
+      <div class="pub-title"><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cXhAfX0AAAAJ&citation_for_view=cXhAfX0AAAAJ:RHpTSmoSYBkC" target="_blank">Near-optimal anomaly detection in graphs using Lovász extended scan statistic</a></div>
       <div class="pub-authors"><strong>James L Sharpnack</strong>, Akshay Krishnamurthy, Aarti Singh</div>
       <div class="pub-venue">Advances in Neural Information Processing Systems (NeurIPS) <span class="venue-badge venue-top">NeurIPS</span><span class="pub-year">2013</span></div>
     </div>
@@ -381,85 +386,85 @@ permalink: /publications/
     </div>
 
     <div class="publication-item">
-      <div class="pub-title">Fused Density Estimation: Theory and Methods</div>
+      <div class="pub-title"><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cXhAfX0AAAAJ&citation_for_view=cXhAfX0AAAAJ:ufrVoPGSRksC" target="_blank">Fused Density Estimation: Theory and Methods</a></div>
       <div class="pub-authors">Robert Bassett, <strong>James Sharpnack</strong></div>
       <div class="pub-venue">Journal of the Royal Statistical Society Series B <span class="venue-badge venue-journal">JRSS-B</span><span class="pub-year">2019</span></div>
     </div>
 
     <div class="publication-item">
-      <div class="pub-title">Adaptive nonparametric regression with the K-nearest neighbour fused lasso</div>
+      <div class="pub-title"><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cXhAfX0AAAAJ&citation_for_view=cXhAfX0AAAAJ:lmc2jWPfTJgC" target="_blank">Adaptive nonparametric regression with the K-nearest neighbour fused lasso</a></div>
       <div class="pub-authors">Oscar Hernan Madrid Padilla, <strong>James Sharpnack</strong>, Yanzhen Chen, Daniela M Witten</div>
       <div class="pub-venue">Biometrika <span class="venue-badge venue-journal">Journal</span><span class="pub-year">2020</span></div>
     </div>
 
     <div class="publication-item">
-      <div class="pub-title">Learning Patterns for Detection with Multiscale Scan Statistics</div>
+      <div class="pub-title"><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cXhAfX0AAAAJ&citation_for_view=cXhAfX0AAAAJ:UeHWp8X0CEIC" target="_blank">Learning Patterns for Detection with Multiscale Scan Statistics</a></div>
       <div class="pub-authors"><strong>James Sharpnack</strong></div>
       <div class="pub-venue">Conference on Learning Theory (COLT) <span class="venue-badge venue-good">COLT</span><span class="pub-year">2018</span></div>
     </div>
 
     <div class="publication-item">
-      <div class="pub-title">A Sharp Error Analysis for the Fused Lasso, with Application to Approximate Changepoint Screening</div>
+      <div class="pub-title"><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cXhAfX0AAAAJ&citation_for_view=cXhAfX0AAAAJ:URolC5Kub84C" target="_blank">A Sharp Error Analysis for the Fused Lasso, with Application to Approximate Changepoint Screening</a></div>
       <div class="pub-authors">Kevin Lin, <strong>James L Sharpnack</strong>, Alessandro Rinaldo, Ryan J Tibshirani</div>
       <div class="pub-venue">Advances in Neural Information Processing Systems (NeurIPS) <span class="venue-badge venue-top">NeurIPS</span><span class="pub-year">2017</span></div>
     </div>
 
     <div class="publication-item">
-      <div class="pub-title">Higher-Order Total Variation Classes on Grids: Minimax Theory and Trend Filtering Methods</div>
+      <div class="pub-title"><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cXhAfX0AAAAJ&citation_for_view=cXhAfX0AAAAJ:vDijr-p_gm4C" target="_blank">Higher-Order Total Variation Classes on Grids: Minimax Theory and Trend Filtering Methods</a></div>
       <div class="pub-authors">Veeranjaneyulu Sadhanala, Yu-Xiang Wang, <strong>James L Sharpnack</strong>, Ryan J Tibshirani</div>
       <div class="pub-venue">Advances in Neural Information Processing Systems (NeurIPS) <span class="venue-badge venue-top">NeurIPS</span><span class="pub-year">2017</span></div>
     </div>
 
     <div class="publication-item">
-      <div class="pub-title">The DFS fused lasso: Linear-time denoising over general graphs</div>
+      <div class="pub-title"><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cXhAfX0AAAAJ&citation_for_view=cXhAfX0AAAAJ:EkHepimYqZsC" target="_blank">The DFS fused lasso: Linear-time denoising over general graphs</a></div>
       <div class="pub-authors">Oscar Hernan Madrid Padilla, James G Scott, <strong>James Sharpnack</strong>, Ryan J Tibshirani</div>
       <div class="pub-venue">Journal of Machine Learning Research (JMLR) <span class="venue-badge venue-journal">JMLR</span><span class="pub-year">2017</span></div>
     </div>
 
     <div class="publication-item">
-      <div class="pub-title">Exact asymptotics for the scan statistic and fast alternatives</div>
+      <div class="pub-title"><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cXhAfX0AAAAJ&citation_for_view=cXhAfX0AAAAJ:Ri6SYOTghG4C" target="_blank">Exact asymptotics for the scan statistic and fast alternatives</a></div>
       <div class="pub-authors"><strong>James Sharpnack</strong>, Ery Arias-Castro, et al.</div>
       <div class="pub-venue">Electronic Journal of Statistics <span class="venue-badge venue-journal">Journal</span><span class="pub-year">2016</span></div>
     </div>
 
     <div class="publication-item">
-      <div class="pub-title">Detecting anomalous activity on networks with the graph Fourier scan statistic</div>
+      <div class="pub-title"><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cXhAfX0AAAAJ&citation_for_view=cXhAfX0AAAAJ:eQOLeE2rZwMC" target="_blank">Detecting anomalous activity on networks with the graph Fourier scan statistic</a></div>
       <div class="pub-authors"><strong>James Sharpnack</strong>, Alessandro Rinaldo, Aarti Singh</div>
       <div class="pub-venue">IEEE Transactions on Signal Processing <span class="venue-badge venue-journal">Journal</span><span class="pub-year">2016</span></div>
     </div>
 
     <div class="publication-item">
-      <div class="pub-title">Sparsistency of the edge lasso over graphs</div>
+      <div class="pub-title"><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cXhAfX0AAAAJ&citation_for_view=cXhAfX0AAAAJ:u-x6o8ySG0sC" target="_blank">Sparsistency of the edge lasso over graphs</a></div>
       <div class="pub-authors"><strong>James Sharpnack</strong>, Alessandro Rinaldo, Aarti Singh</div>
       <div class="pub-venue">International Conference on Artificial Intelligence and Statistics (AISTATS) <span class="venue-badge venue-good">AISTATS</span><span class="pub-year">2012</span></div>
     </div>
 
     <div class="publication-item">
-      <div class="pub-title">Changepoint detection over graphs with the spectral scan statistic</div>
+      <div class="pub-title"><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cXhAfX0AAAAJ&citation_for_view=cXhAfX0AAAAJ:Y0pCki6q_DkC" target="_blank">Changepoint detection over graphs with the spectral scan statistic</a></div>
       <div class="pub-authors"><strong>James Sharpnack</strong>, Alessandro Rinaldo, Aarti Singh</div>
       <div class="pub-venue">International Conference on Artificial Intelligence and Statistics (AISTATS) <span class="venue-badge venue-good">AISTATS</span><span class="pub-year">2012</span></div>
     </div>
 
     <div class="publication-item">
-      <div class="pub-title">Detecting activations over graphs using spanning tree wavelet bases</div>
+      <div class="pub-title"><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cXhAfX0AAAAJ&citation_for_view=cXhAfX0AAAAJ:d1gkVwhDpl0C" target="_blank">Detecting activations over graphs using spanning tree wavelet bases</a></div>
       <div class="pub-authors"><strong>James Sharpnack</strong>, Akshay Krishnamurthy, Aarti Singh</div>
       <div class="pub-venue">International Conference on Artificial Intelligence and Statistics (AISTATS) <span class="venue-badge venue-good">AISTATS</span><span class="pub-year">2013</span></div>
     </div>
 
     <div class="publication-item">
-      <div class="pub-title">Estimating Graphlet Statistics via Lifting</div>
+      <div class="pub-title"><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cXhAfX0AAAAJ&citation_for_view=cXhAfX0AAAAJ:IjCSPb-OGe4C" target="_blank">Estimating Graphlet Statistics via Lifting</a></div>
       <div class="pub-authors">Kirill Paramonov, Dmitry Shemetov, <strong>James Sharpnack</strong></div>
       <div class="pub-venue">ACM SIGKDD International Conference on Knowledge Discovery and Data Mining <span class="venue-badge venue-good">KDD</span><span class="pub-year">2019</span></div>
     </div>
 
     <div class="publication-item">
-      <div class="pub-title">Variance function estimation in high-dimensions</div>
+      <div class="pub-title"><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cXhAfX0AAAAJ&citation_for_view=cXhAfX0AAAAJ:zYLM7Y9cAGgC" target="_blank">Variance function estimation in high-dimensions</a></div>
       <div class="pub-authors">Mladen Kolar, <strong>James Sharpnack</strong></div>
       <div class="pub-venue">International Conference on Machine Learning (ICML) <span class="venue-badge venue-top">ICML</span><span class="pub-year">2012</span></div>
     </div>
 
     <div class="publication-item">
-      <div class="pub-title">Identifying graph-structured activation patterns in networks</div>
+      <div class="pub-title"><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cXhAfX0AAAAJ&citation_for_view=cXhAfX0AAAAJ:u5HHmVD_uO8C" target="_blank">Identifying graph-structured activation patterns in networks</a></div>
       <div class="pub-authors"><strong>James Sharpnack</strong>, Aarti Singh</div>
       <div class="pub-venue">Advances in Neural Information Processing Systems (NeurIPS) <span class="venue-badge venue-top">NeurIPS</span><span class="pub-year">2010</span></div>
     </div>
@@ -485,7 +490,7 @@ permalink: /publications/
     </div>
 
     <div class="publication-item">
-      <div class="pub-title">Psychological stress of bicycling with traffic: examining heart rate variability of bicyclists in natural urban environments</div>
+      <div class="pub-title"><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cXhAfX0AAAAJ&citation_for_view=cXhAfX0AAAAJ:VaXvl8Fpj5cC" target="_blank">Psychological stress of bicycling with traffic: examining heart rate variability of bicyclists in natural urban environments</a></div>
       <div class="pub-authors">Dillon T Fitch, <strong>James Sharpnack</strong>, Susan L Handy</div>
       <div class="pub-venue">Transportation Research Part F: Traffic Psychology and Behaviour <span class="venue-badge venue-journal">Journal</span><span class="pub-year">2020</span></div>
     </div>
@@ -529,5 +534,33 @@ function filterPublications(category) {
     }
   });
 }
+
+// Handle hash-based filtering when page loads
+document.addEventListener('DOMContentLoaded', function() {
+  const hash = window.location.hash.replace('#', '');
+  if (hash && ['education', 'health', 'astronomy', 'industry', 'theory'].includes(hash)) {
+    // Simulate button click to trigger filtering
+    const sections = document.querySelectorAll('.publication-section');
+    const buttons = document.querySelectorAll('.filter-btn');
+    
+    // Update button states
+    buttons.forEach(btn => btn.classList.remove('active'));
+    document.querySelector(`button[onclick="filterPublications('${hash}')"]`)?.classList.add('active');
+    
+    // Show/hide sections
+    sections.forEach(section => {
+      if (section.dataset.category === hash) {
+        section.style.display = 'block';
+      } else {
+        section.style.display = 'none';
+      }
+    });
+
+    // Scroll to publications if coming from homepage
+    if (document.referrer.includes(window.location.origin)) {
+      document.querySelector('.publication-section').scrollIntoView({ behavior: 'smooth' });
+    }
+  }
+});
 </script>
 
