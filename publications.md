@@ -164,12 +164,12 @@ permalink: /publications/
 
 <div style="text-align: center; margin: 2rem 0;">
   <h1 style="color: #2c3e50; margin-bottom: 0.5rem;">Research Publications</h1>
-  <p style="font-size: 1.1rem; color: #666;">40+ publications spanning machine learning, statistics, and interdisciplinary applications</p>
+  <p style="font-size: 1.1rem; color: #666;">43+ publications spanning machine learning, statistics, and interdisciplinary applications</p>
 </div>
 
 <div class="stats-summary">
   <div class="stat-card">
-    <div class="stat-number">40+</div>
+    <div class="stat-number">43+</div>
     <div class="stat-label">Publications</div>
   </div>
   <div class="stat-card">

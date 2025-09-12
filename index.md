@@ -14,12 +14,12 @@ layout: home
         <a href="https://www.duolingo.com/" style="color: #58cc02;">Duolingo</a>
       </div>
       <div>
-        <strong>ex-Tenured Professor</strong><br>
-        <a href="https://statistics.ucdavis.edu/" style="color: #3498db;">UC Davis Statistics Department</a>
+        <strong>Former Associate Professor</strong><br>
+        <span style="color: #3498db;">UC Davis Statistics Department</span>
       </div>
     </div>
     <div style="margin-top: 1.5rem; padding: 1rem; background: #f8f9fa; border-left: 4px solid #3498db; border-radius: 4px;">
-      <strong>Research Impact:</strong> 10 PhD Students Graduated • 43+ Publications • AI in Education Innovator • COVID-19 Public Health Response Leader
+      <strong>Research Impact:</strong> 10 PhD Students Graduated • 43+ Publications • AI in Education Innovator • COVID-19 Public Health Response Leader 
     </div>
   </div>
 </div>
@@ -65,10 +65,4 @@ layout: home
   </div>
 </div>
 
-<div style="margin: 2rem 0; text-align: center;">
-  <div style="display: inline-block; margin: 0 1rem;">
-    <img src="images/james_sketch.jpg" alt="James Sharpnack Sketch" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity='1'" onmouseout="this.style.opacity='0.8'">
-    <p style="margin: 0.5rem 0 0 0; font-size: 0.8rem; color: #666; font-style: italic;">Artistic representation</p>
-  </div>
-</div>
 
