@@ -44,5 +44,12 @@ plugins:
 google_analytics: G-R1SW6WV4EW
 
 url: "https://jsharpna.github.io" # the base hostname & protocol for your site
+
+# Navigation pages (excludes bio from main navigation)
+header_pages:
+  - publications.md
+  - education.md
+  - alumni.md
+
 plugins:
   - jekyll-sitemap

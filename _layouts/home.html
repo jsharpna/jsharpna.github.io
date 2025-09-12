@@ -10,25 +10,40 @@ layout: default
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-    <!-- <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2> -->
-    <ul class="post-list">
-      {%- for post in site.posts -%}
-      <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h4>
-          <a class="post-link" style="font-size:medium;" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h4>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
-
-    <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>-->
+    <div style="margin: 3rem 0;">
+      <h2 style="color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 0.5rem; margin-bottom: 2rem;">Recent Updates</h2>
+      
+      <div style="display: grid; gap: 1.5rem;">
+        {%- for post in site.posts -%}
+        <div style="padding: 1.5rem; background: #fff; border: 1px solid #e1e8ed; border-radius: 12px; box-shadow: 0 2px 4px rgba(0,0,0,0.05); transition: all 0.3s ease;" onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.1)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 4px rgba(0,0,0,0.05)'">
+          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+          <div style="display: flex; justify-content: between; align-items: flex-start; margin-bottom: 0.5rem;">
+            <div style="flex: 1;">
+              <h3 style="margin: 0; font-size: 1.1rem; line-height: 1.3;">
+                <a href="{{ post.url | relative_url }}" style="color: #2c3e50; text-decoration: none;">
+                  {{ post.title | escape }}
+                </a>
+              </h3>
+            </div>
+            <div style="flex: 0 0 auto; margin-left: 1rem;">
+              <span style="background: #3498db; color: white; padding: 4px 8px; border-radius: 12px; font-size: 0.8rem; font-weight: bold;">{{ post.date | date: date_format }}</span>
+            </div>
+          </div>
+          {%- if post.categories.size > 0 -%}
+          <div style="margin-bottom: 0.5rem;">
+            {%- for category in post.categories -%}
+            <span style="background: #f8f9fa; color: #666; padding: 2px 6px; border-radius: 8px; font-size: 0.75rem; margin-right: 0.5rem;">{{ category }}</span>
+            {%- endfor -%}
+          </div>
+          {%- endif -%}
+          {%- if post.excerpt -%}
+          <p style="margin: 0; color: #666; line-height: 1.4; font-size: 0.95rem;">{{ post.excerpt | strip_html | truncatewords: 25 }}</p>
+          {%- endif -%}
+        </div>
+        {%- endfor -%}
+      </div>
+      
+    </div>
   {%- endif -%}
 
 </div>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NeurIPS 2024 Keynote: Building a High Stakes Online Test with Human-in-the-loop AI"
+title: "NeurIPS 2024 Workshop Keynote: Building a High Stakes Online Test with Human-in-the-loop AI"
 date: 2024-12-16 00:00:00 -0700
 categories: events
 ---
