@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Education
-permalink: /education/
+title: Talks
+permalink: /talks/
 ---
 
 <style>
@@ -100,8 +100,8 @@ permalink: /education/
 
 <div style="display: flex; align-items: center; justify-content: center; margin: 2rem 0; flex-wrap: wrap;">
   <div style="text-align: center; flex: 1; min-width: 300px;">
-    <h1 style="color: #2c3e50; margin-bottom: 0.5rem;">Education & Speaking</h1>
-    <p style="font-size: 1.1rem; color: #666;">Leading AI education through teaching, keynotes, and conference organization</p>
+    <h1 style="color: #2c3e50; margin-bottom: 0.5rem;">Talks & Presentations</h1>
+    <p style="font-size: 1.1rem; color: #666;">Keynotes, conference presentations, and course development</p>
   </div>
   <div style="margin-left: 2rem; flex: 0 0 120px;">
     <img src="/images/james_sketch.jpg" alt="James Sharpnack Sketch" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; opacity: 0.9; transition: all 0.3s ease; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" onmouseover="this.style.opacity='1'; this.style.transform='scale(1.05)'" onmouseout="this.style.opacity='0.9'; this.style.transform='scale(1)'">

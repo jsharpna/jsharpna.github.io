@@ -48,7 +48,7 @@ url: "https://jsharpna.github.io" # the base hostname & protocol for your site
 # Navigation pages (excludes bio from main navigation)
 header_pages:
   - publications.md
-  - education.md
+  - talks.md
   - alumni.md
 
 plugins:
