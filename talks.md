@@ -100,7 +100,7 @@ permalink: /talks/
 
 <div style="display: flex; align-items: center; justify-content: center; margin: 2rem 0; flex-wrap: wrap;">
   <div style="text-align: center; flex: 1; min-width: 300px;">
-    <h1 style="color: #2c3e50; margin-bottom: 0.5rem;">Talks & Presentations</h1>
+    <h1 style="color: #2c3e50; margin-bottom: 0.5rem;">Talks & Teaching</h1>
     <p style="font-size: 1.1rem; color: #666;">Keynotes, conference presentations, and course development</p>
   </div>
   <div style="margin-left: 2rem; flex: 0 0 120px;">
