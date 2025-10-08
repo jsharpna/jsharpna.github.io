@@ -155,6 +155,15 @@ permalink: /alumni/
     </div>
 
     <div class="student-card">
+      <div class="student-name"><a href="https://statistics.ucdavis.edu/people/xiaoliu-charles-wu" target="_blank">Xiaoliu Wu</a></div>
+      <div class="student-role">Data Scientist • Google</div>
+      <div class="student-details">
+        <strong>Graduated:</strong> Winter 2022 • Statistics Ph.D. • COVID-19 Davis Modeling Team<br>
+        <div class="thesis-title">"Conditional Independence Testing for Neural Networks"</div>
+      </div>
+    </div>
+
+    <div class="student-card">
       <div class="student-name">Shitong Wei</div>
       <div class="student-role">Machine Learning Engineer • Adobe</div>
       <div class="student-details">

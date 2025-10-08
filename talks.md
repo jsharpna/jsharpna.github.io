@@ -120,7 +120,7 @@ permalink: /talks/
   </div>
   <div class="stat-card">
     <div class="stat-number">2024-2025</div>
-    <div class="stat-label">AAAI Co-organizer</div>
+    <div class="stat-label">AAAI Workshop Co-organizer</div>
   </div>
   <div class="stat-card">
     <div class="stat-number">3</div>
