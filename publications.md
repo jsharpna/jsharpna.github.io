@@ -187,7 +187,7 @@ permalink: /publications/
 <div class="filter-buttons">
   <button class="filter-btn active" onclick="filterPublications('all')">All Publications</button>
   <button class="filter-btn" onclick="filterPublications('education')">🎓 Educational AI</button>
-  <button class="filter-btn" onclick="filterPublications('health')">🦠 Public Health</button>
+  <button class="filter-btn" onclick="filterPublications('health')">🏥 Health & Epidemiology</button>
   <button class="filter-btn" onclick="filterPublications('astronomy')">🌌 Astronomy</button>
   <button class="filter-btn" onclick="filterPublications('industry')">🏢 Industry ML</button>
   <button class="filter-btn" onclick="filterPublications('theory')">📊 Statistical Theory</button>
@@ -294,7 +294,7 @@ permalink: /publications/
 
 <!-- Public Health & Epidemiology -->
 <div class="publication-section" data-category="health">
-  <h2 class="section-header health">🦠 Public Health & Epidemiology</h2>
+  <h2 class="section-header health">🏥 Health & Epidemiology</h2>
   <div class="publication-list">
 
     <div class="publication-item">
@@ -331,6 +331,24 @@ permalink: /publications/
       <div class="pub-title">Comparative performance analysis of three machine learning algorithms applied to sensor data registered by a leg-attached accelerometer to predict metritis events in dairy cattle</div>
       <div class="pub-authors">Gema Vidal, <strong>James Sharpnack</strong>, Pablo Pinedo, I Ching Tsai, Amanda Renee Lee, Beatriz Martínez-López</div>
       <div class="pub-venue">Frontiers in Animal Science <span class="venue-badge venue-journal">Journal</span><span class="pub-year">2023</span></div>
+    </div>
+
+    <div class="publication-item">
+      <div class="pub-title">Proteogenomic Analysis of Surgically Resected Lung Adenocarcinoma</div>
+      <div class="pub-authors">Michael F Sharpnack, Nilini Ranbaduge, Arunima Srivastava, Ferdinando Cerciello, Simona G Codreanu, Daniel C Liebler, Celine Mascaux, Wayne O Miles, Robert Morris, Jason E McDermott, <strong>James Sharpnack</strong>, et al.</div>
+      <div class="pub-venue">Journal of Thoracic Oncology <span class="venue-badge venue-journal">Journal</span><span class="pub-year">2018</span></div>
+    </div>
+
+    <div class="publication-item">
+      <div class="pub-title">Improving lung cancer diagnosis and survival prediction with deep learning and CT imaging</div>
+      <div class="pub-authors">Xiawei Wang, <strong>James Sharpnack</strong>, Thomas CM Lee</div>
+      <div class="pub-venue">PLoS One <span class="venue-badge venue-journal">Journal</span><span class="pub-year">2025</span></div>
+    </div>
+
+    <div class="publication-item">
+      <div class="pub-title"><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cXhAfX0AAAAJ&citation_for_view=cXhAfX0AAAAJ:VaXvl8Fpj5cC" target="_blank">Psychological stress of bicycling with traffic: examining heart rate variability of bicyclists in natural urban environments</a></div>
+      <div class="pub-authors">Dillon T Fitch, <strong>James Sharpnack</strong>, Susan L Handy</div>
+      <div class="pub-venue">Transportation Research Part F: Traffic Psychology and Behaviour <span class="venue-badge venue-journal">Journal</span><span class="pub-year">2020</span></div>
     </div>
 
   </div>
@@ -467,32 +485,6 @@ permalink: /publications/
       <div class="pub-title"><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cXhAfX0AAAAJ&citation_for_view=cXhAfX0AAAAJ:u5HHmVD_uO8C" target="_blank">Identifying graph-structured activation patterns in networks</a></div>
       <div class="pub-authors"><strong>James Sharpnack</strong>, Aarti Singh</div>
       <div class="pub-venue">Advances in Neural Information Processing Systems (NeurIPS) <span class="venue-badge venue-top">NeurIPS</span><span class="pub-year">2010</span></div>
-    </div>
-
-  </div>
-</div>
-
-<!-- Cross-cutting & Other Applications -->
-<div class="publication-section" data-category="other">
-  <h2 class="section-header" style="background: linear-gradient(135deg, #34495e, #2c3e50); color: white;">🔬 Cross-cutting & Other Applications</h2>
-  <div class="publication-list">
-
-    <div class="publication-item">
-      <div class="pub-title">Improving lung cancer diagnosis and survival prediction with deep learning and CT imaging</div>
-      <div class="pub-authors">Xiawei Wang, <strong>James Sharpnack</strong>, Thomas CM Lee</div>
-      <div class="pub-venue">PLoS One <span class="venue-badge venue-journal">Journal</span><span class="pub-year">2025</span></div>
-    </div>
-
-    <div class="publication-item">
-      <div class="pub-title">Proteogenomic Analysis of Surgically Resected Lung Adenocarcinoma</div>
-      <div class="pub-authors">Michael F Sharpnack, Nilini Ranbaduge, Arunima Srivastava, Ferdinando Cerciello, Simona G Codreanu, Daniel C Liebler, Celine Mascaux, Wayne O Miles, Robert Morris, Jason E McDermott, <strong>James Sharpnack</strong>, et al.</div>
-      <div class="pub-venue">Journal of Thoracic Oncology <span class="venue-badge venue-journal">Journal</span><span class="pub-year">2018</span></div>
-    </div>
-
-    <div class="publication-item">
-      <div class="pub-title"><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cXhAfX0AAAAJ&citation_for_view=cXhAfX0AAAAJ:VaXvl8Fpj5cC" target="_blank">Psychological stress of bicycling with traffic: examining heart rate variability of bicyclists in natural urban environments</a></div>
-      <div class="pub-authors">Dillon T Fitch, <strong>James Sharpnack</strong>, Susan L Handy</div>
-      <div class="pub-venue">Transportation Research Part F: Traffic Psychology and Behaviour <span class="venue-badge venue-journal">Journal</span><span class="pub-year">2020</span></div>
     </div>
 
   </div>
