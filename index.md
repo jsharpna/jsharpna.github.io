@@ -36,7 +36,7 @@ layout: home
     </a>
     <a href="/publications/#health" style="text-decoration: none; color: inherit;">
       <div style="padding: 1rem; background: #fff; border: 1px solid #e1e8ed; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.05); transition: all 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.15)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 4px rgba(0,0,0,0.05)'">
-        <h3 style="margin: 0 0 0.5rem 0; color: #e67e22;">🦠 Public Health & Epidemiology</h3>
+        <h3 style="margin: 0 0 0.5rem 0; color: #e67e22;">🏥 Health & Epidemiology</h3>
         <p style="margin: 0; font-size: 0.9rem; color: #666;">COVID-19 Response • Wastewater Surveillance • PNAS Publications</p>
         <p style="margin: 0.5rem 0 0 0; font-size: 0.8rem; color: #3498db; font-weight: bold;">→ View Publications</p>
       </div>
