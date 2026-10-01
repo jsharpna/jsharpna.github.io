@@ -10,7 +10,7 @@ layout: home
     <h1 style="margin: 0; font-size: 2.2rem; color: #2c3e50;">James Sharpnack</h1>
     <div style="margin: 1rem 0; font-size: 1.1rem; line-height: 1.4;">
       <div style="margin-bottom: 0.5rem;">
-        <strong>Senior Staff Machine Learning Engineer</strong><br>
+        <strong>Chief Scientist</strong><br>
         <a href="https://lovelace.ai/" style="color: #58cc02;">Lovelace AI</a>
       </div>
       <div>
